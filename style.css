@@ -1,0 +1,13 @@
+.group11{
+    height: 200px;
+    width: 100%;
+    background-image: url("./assest/redlast.png");
+    padding-top: 80px;
+   background-color: transparent;
+}
+.position-relative{
+    color: red;
+    background-color: white;
+    width: 17%;
+    right: 80px;
+}
