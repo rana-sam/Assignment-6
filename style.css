@@ -31,3 +31,12 @@
 .cpa-heading{
     font-size: 0.8rem;
 }
+.group9{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.group9-Farward-icon{
+    transform: rotate(180deg);
+}
