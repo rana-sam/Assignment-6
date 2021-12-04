@@ -40,15 +40,36 @@
 .group9-Farward-icon{
     transform: rotate(180deg);
 }
+
 .nameOne{
+
     height: 300px;
     width: 200px;
      border: 5px solid gray;
      border-radius: 15px;
      /* background-color: rgb(202, 22, 22); */
+     }
+     .nameOne img{
+         position:relative;
+         left: 25%;
+         bottom: 25%;
+     }
+     .nameoneh6{
+         position: relative;
+         left: 30%;
+         bottom: 15%;
+     }
+     .nameOne p{
+         position: relative;
+         bottom: 20%;
+         text-align: center;
+         line-height: 18px;
+     }
+    .nameonestar{
+        margin-top: 30px;
     }
     .inerdiv{
-        height:100px ;
+        height:120px ;
         width: 190px;
         border-radius: 10px 10px 0px 0px;
     background-color: rgb(219, 219, 219);
