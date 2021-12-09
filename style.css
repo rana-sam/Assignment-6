@@ -116,3 +116,22 @@ position: relative;
 bottom: 13%;
 left: 25%;
 }
+
+
+
+                            /* Group 8 */
+
+.group8{
+    height: 600px;
+    width: 100%;
+}
+.row1col3grid{
+    position: relative;
+    bottom: 70px;
+}
+.row2li{
+    width: 57%;
+    padding-bottom: 20px;
+    border-bottom: 3px solid gray;
+    
+}
