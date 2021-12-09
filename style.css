@@ -122,7 +122,7 @@ left: 25%;
                             /* Group 8 */
 
 .group8{
-    height: 600px;
+    height: 550px;
     width: 100%;
 }
 .row1col3grid{
@@ -133,5 +133,19 @@ left: 25%;
     width: 57%;
     padding-bottom: 20px;
     border-bottom: 3px solid gray;
+    
+}
+.row2img{
+    position: relative;
+    left: 15%;
+    bottom: 30%;
+}
+.row3span{
+    width: 5px;
+    border-bottom: 2px solid black;
+}
+hr{
+    position: relative;
+    left: 50%;
     
 }
