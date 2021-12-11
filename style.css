@@ -149,7 +149,7 @@ left: 25%;
     left: 50%;
     
 }
-
+                                    /* Group 7 */
 .group7{
     height: 500px;
     width: 100%;
@@ -176,4 +176,12 @@ left: 25%;
     border: none;
     font-size: 12px;
     color: red;
+}
+
+.group6{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
